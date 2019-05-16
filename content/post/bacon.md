@@ -1,7 +1,6 @@
 ---
 title: "Bacon"
 date: 2019-05-16T21:38:15+01:00
-draft: true
 ---
 Bacon ipsum dolor amet meatloaf pancetta beef, shankle tail bresaola swine. Ground round beef ribs doner, drumstick flank frankfurter pork belly chicken boudin strip steak cupim corned beef picanha. Shank beef ribs t-bone, sausage pork strip steak leberkas ground round. Prosciutto fatback ham ham hock chicken, ground round pancetta kielbasa filet mignon frankfurter jerky chuck. Tail frankfurter bacon hamburger short ribs tongue beef ribs beef andouille. Pork chop venison beef ribs boudin.
 
