@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a3ec276f-6a64-40c1-b30c-8bf43ae3423d/deploy-status)](https://app.netlify.com/sites/infallible-albattani-e88f14/deploys)
+
 # k8s.wtf
 just starting the readme. 
 ### Project gaols
